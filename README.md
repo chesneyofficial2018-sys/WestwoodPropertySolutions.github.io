@@ -1,2 +1,19 @@
 # WestwoodPropertySolutions.github.io
 Rentals
+real-estate-website/
+├── index.html
+├── about.html
+├── listings.html
+├── agents.html
+├── contact.html
+├── css/
+│   ├── style.css
+│   ├── responsive.css
+│   └── animations.css
+├── js/
+│   ├── main.js
+│   ├── slider.js
+│   ├── calculator.js
+│   └── search.js
+├── images/
+└── assets/
